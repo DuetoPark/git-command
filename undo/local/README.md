@@ -7,6 +7,8 @@
 
 ### staged area에서 내리기
 
+만약, 해당 파일이 생성되기 전의 커밋 상태로 되돌리면 그 파일은 삭제된다.
+
 ```
 git restore --staged file.txt
 git reset HEAD file.txt
