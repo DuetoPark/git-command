@@ -36,3 +36,31 @@ git merge --abort #merge 취소
 ```
 git mergetool #mergetool 열기
 ```
+
+## 💥 conflict 해결
+
+1. 파일 열기
+
+```
+open 파일명
+```
+
+2. `>>> HEAD & <<< 브랜치명` 부분을 수정
+
+3. 깃 상황 확인
+
+```
+git status
+```
+
+4. stage area에 등록
+
+```
+git add 파일명
+```
+
+5. merge 계속하기
+
+```
+git merge --continue
+```
