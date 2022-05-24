@@ -28,3 +28,4 @@ git 마스터하기 (◍ᐡ₃ᐡ◍)
 
 - [local](https://github.com/DuetoPark/git-command/blob/main/undo/local)
 - [commit](https://github.com/DuetoPark/git-command/tree/main/undo/commit)
+- [Interactive Rebasing](https://github.com/DuetoPark/git-command/tree/main/undo/Interactive%20Rebasing)
